@@ -1,0 +1,45 @@
+# 系统级文件夹
+.DS_Store
+Thumbs.db
+NTUSER.*
+*.regtrans-ms
+*.blf
+
+# 用户主目录杂项
+.bash_history
+.gitconfig
+.vscode/
+.idea/
+.cache/
+.android/
+.kaggle/
+.keystore
+.lesshst
+.limy/
+.ltmp/
+.tobii/
+.matplotlib/
+
+# VS Code 和 IDE 项目配置
+.vscode/
+*.iml
+*.log
+
+# 不相关目录
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
+Zotero/
+
+
